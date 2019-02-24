@@ -15,7 +15,7 @@ export default class content1 extends Component {
               alt="Generic placeholder"
             />
             <Media.Body>
-              <h5>Solar without Panels -Test</h5>
+              <h5>Solar without Panels</h5>
               <p>
                 Cras sit amet nibh libero, in gravida nulla. Nulla vel metus
                 scelerisque ante sollicitudin commodo. Cras purus odio,
