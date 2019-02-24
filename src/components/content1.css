@@ -1,0 +1,26 @@
+.row {
+    background-color: whitesmoke;
+    margin-right: 0px;
+    padding: 20px;
+}
+
+#content2div {
+    background-color: whitesmoke;
+    margin-right: 0px;
+    padding: 20px;
+}
+
+#contactform {
+    background-color: whitesmoke;
+    margin-right: 0px;
+    padding: 20px;
+}
+
+#contacttitle {
+    padding-left: 30px;
+}
+
+#stats {
+    padding: 40px;
+    padding-top: 100px;
+}
